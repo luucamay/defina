@@ -1,2 +1,2 @@
-# defina
-Your personal AI defi assistant
+# DeFina
+Your personal AI DeFi assistant
